@@ -1,0 +1,7 @@
+express-postgres-crud/
+├── node_modules/
+├── db.js
+├── server.js
+├── .env
+├── package.json
+└── README.md
